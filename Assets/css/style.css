@@ -982,7 +982,7 @@ a {
 }
 
 .footer .brand-text {
-    font-size: clamp(4rem, 20vw + 1rem, 20rem);
+    font-size: clamp(2rem, 10vw + 1rem, 10rem);
     font-weight: bold;
     letter-spacing: -0.02em;
     line-height: 1;
